@@ -1,0 +1,25 @@
+body {
+    background-image: url("../assets/images/Landing_Page.jpg");
+    background-position: center;
+}
+
+.jumbotron {
+    background-color: rgb(43, 42, 42, .7);
+    color: white;
+    text-align: center;
+    height: 175px;
+}
+
+.jumbotron h1 {
+    font-size: 5rem;
+    line-height: 25px;
+}
+
+.panel{
+    background: rgb(252, 252, 252, .7);
+    font-weight: 550;
+}
+
+.form-control {
+    background: rgb(252, 252, 252, .55);
+}
